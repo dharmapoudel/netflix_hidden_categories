@@ -1,2 +1,6 @@
-# netflix_hidden_categories
+# Netflix Hidden Categories
 Adds  hidden categories menu on Netflix.  
+
+**How to install?**
+
+Just download .crx file and  open it with chrome. 
